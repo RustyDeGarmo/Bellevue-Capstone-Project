@@ -3,7 +3,8 @@ This repo is meant to showcase the results of my team's efforts in our capstone 
 <br/>
 
 Here is our group video presentation:
-[![Group Presentation](https://img.youtube.com/vi/VCzX4YQ6TxU/default.jpg)](https://www.youtube.com/watch?v=VCzX4YQ6TxU)
+
+[![Group Presentation](https://img.youtube.com/vi/VCzX4YQ6TxU/default.jpg)](https://www.youtu.be/VCzX4YQ6TxU)
 
 <br/><br/>
 
