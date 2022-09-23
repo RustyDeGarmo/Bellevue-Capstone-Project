@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Red Team: Anthony Wright Andreas Arnet Angela Perkins Jennifer Thomas Chad Hendren Rusty DeGarmo -->
+<!-- Web XML File information on the configuration of the web application including the configuration of servlets -->
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://xmlns.jcp.org/xml/ns/javaee" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd" id="WebApp_ID" version="4.0">
+  <display-name>ProvisioHotels</display-name>
+  <servlet> 
+    <servlet-name>Home</servlet-name>
+    <servlet-class>com.provisio.controllers.IndexController</servlet-class>
+</servlet>
+<servlet-mapping>
+    <servlet-name>Home</servlet-name>
+    <url-pattern></url-pattern>
+</servlet-mapping>
+<filter>
+    <filter-name>Booking Data Filter</filter-name>
+    <filter-class>com.provisio.utils.BookingDataFiterUtil</filter-class>
+</filter>
+<filter>
+    <filter-name>Login Filter</filter-name>
+    <filter-class>com.provisio.utils.LoginFilterUtil</filter-class>
+</filter>
+<filter-mapping>
+    <filter-name>Booking Data Filter</filter-name>
+    <url-pattern>/review-reservation.jsp</url-pattern>
+</filter-mapping>
+<filter-mapping>
+    <filter-name>Login Filter</filter-name>
+    <url-pattern>/review-reservation.jsp</url-pattern>
+    <url-pattern>/reservation-confirmed.jsp</url-pattern>
+    <url-pattern>/view-reservation/*</url-pattern>
+    <url-pattern>/my-bookings</url-pattern>
+</filter-mapping>
+<context-param>
+    <param-name>appUrl</param-name>
+    <param-value>http://localhost:8080/ProvisioHotels</param-value>
+</context-param>
+<context-param>
+    <param-name>gmailUsername</param-name>
+    <param-value>username@gmail.com</param-value>
+</context-param>
+<context-param>
+    <param-name>gmailPassword</param-name>
+    <param-value>password</param-value>
+</context-param>
+</web-app>

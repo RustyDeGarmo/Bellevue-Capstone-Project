@@ -1,0 +1,134 @@
+
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.25677546605547, 34.04365677921556
+          ]
+        },
+        "properties": {
+          "id": "59c0c8e33b1527bfe2abaf92",
+          "index": 0,
+          "isActive": true,
+          "logo": "http://placehold.it/32x32",
+          "image": "photo-1484154218962-a197022b5858.jpg",
+          "link": "http://localhost:8080/ProvisioHotels/hotels/los-angeles-provisio",
+          "url": "#",
+          "name": "Los Angeles Provisio",
+          "subtitle": "Private room",
+          "email": "biancabriggs@bluehill.com",
+          "stars": 5,
+          "price": "115.50",
+          "person": "Pamela",
+          "avatar": "img/avatar/avatar-0.jpg",
+          "phone": "+1 (920) 407-3975",
+          "address": "151 Karweg Place, Waumandee, Iowa, 5508",
+          "about": "Cupidatat excepteur non dolore laborum et quis nostrud veniam dolore deserunt. Pariatur dolore ut in elit id nulla. Irure nostrud sint deserunt enim Lorem. Do eu esse consequat mollit labore commodo officia labore voluptate sit voluptate cupidatat.\r\n",
+          "tags": [
+            "et",
+            "cupidatat"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+			-122.33404492200034, 47.60626140102529            
+            
+          ]
+        },
+        "properties": {
+          "id": "59c0c8e322f3375db4d89128",
+          "index": 1,
+          "isActive": true,
+          "logo": "http://placehold.it/32x32",
+          "image": "photo-1426122402199-be02db90eb90.jpg",
+          "link": "http://localhost:8080/ProvisioHotels/hotels/seattle-provisio-at-the-waterfront",
+          "url": "#",
+          "name": "Seattle Provisio at the Waterfront",
+          "subtitle": "Entire apartment",
+          "email": "biancabriggs@plutorque.com",
+          "stars": 4,
+          "price": 115,
+          "person": "John",
+          "avatar": "img/avatar/avatar-7.jpg",
+          "phone": "+1 (986) 599-2693",
+          "address": "325 Seton Place, Castleton, Indiana, 3368",
+          "about": "Proident irure eiusmod velit veniam consectetur id minim irure et nostrud mollit magna velit. Commodo amet proident aliqua qui enim exercitation ipsum laborum Lorem. Irure nostrud sint deserunt enim Lorem. Do eu esse consequat mollit labore commodo officia labore voluptate sit voluptate cupidatat.\r\n",
+          "tags": [
+            "magna",
+            "culpa"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+			-117.16111276300951, 32.709515401528435
+          ]
+        },
+        "properties": {
+          "id": "59c0c8e3a31e62979bf147c9",
+          "index": 2,
+          "isActive": true,
+          "logo": "http://placehold.it/32x32",
+          "image": "photo-1512917774080-9991f1c4c750.jpg",
+          "link": "http://localhost:8080/ProvisioHotels/hotels/provisio-san-diego-bay-front",
+          "url": "#",
+          "name": "Provisio San Diego Bay Front",
+          "subtitle": "Entire apartment",
+          "email": "biancabriggs@junipoor.com",
+          "stars": 3,
+          "price": 115,
+          "person": "Julie",
+          "avatar": "img/avatar/avatar-8.jpg",
+          "phone": "+1 (863) 446-2211",
+          "address": "397 Crystal Street, Idledale, Nebraska, 4692",
+          "about": "Lorem amet ex duis in et fugiat consectetur laborum eiusmod labore. Quis cupidatat et do dolor in in magna. Eu sit quis cillum proident pariatur commodo consequat ea sunt mollit. Ad aliquip aliquip amet occaecat aute incididunt ex sit culpa adipisicing amet officia nisi. Commodo amet proident aliqua qui enim exercitation ipsum laborum Lorem.\r\n",
+          "tags": [
+            "ex",
+            "exercitation"
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+			-87.66399291608404, 41.86024598275178
+          ]
+        },
+        "properties": {
+          "id": "59c0c8e3503eb77d487e8082",
+          "index": 3,
+          "isActive": false,
+          "logo": "http://placehold.it/32x32",
+          "image": "photo-1494526585095-c41746248156.jpg",
+          "link": "http://localhost:8080/ProvisioHotels/hotels/chicago-provisio-experience",
+          "url": "#",
+          "name": "Chigaco Provisio Experience",
+          "subtitle": "Shared room",
+          "email": "biancabriggs@musix.com",
+          "stars": 4,
+          "price": 115,
+          "person": "Barbora",
+          "avatar": "img/avatar/avatar-9.jpg",
+          "phone": "+1 (862) 498-2322",
+          "address": "828 Dewitt Avenue, Wyano, Nevada, 5082",
+          "about": "Deserunt eiusmod Lorem proident consequat elit culpa laboris ea cupidatat. Consequat dolore proident ipsum qui sint enim id in non et duis sunt aute qui. Laboris deserunt enim exercitation do consequat irure dolor ipsum commodo est fugiat qui mollit.\r\n",
+          "tags": [
+            "eiusmod"
+          ]
+        }
+      }    
+    ]
+  }
