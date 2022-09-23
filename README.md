@@ -3,7 +3,7 @@ This repo is meant to showcase the results of my team's efforts in our capstone 
 <br/>
 
 Here is our group video presentation:
-![Group Presentation](https://www.youtube.com/watch?v=VCzX4YQ6TxU)
+[![Group Presentation](https://img.youtube.com/vi/VCzX4YQ6TxU/default.jpg)](https://www.youtube.com/watch?v=VCzX4YQ6TxU)
 
 <br/><br/>
 
@@ -60,6 +60,7 @@ Here are a series of images showcasing the final project:
 
 ## Provisio Hotels About Page Bottom:
 ![Home Page Bottom](/showcaseImages/aboutBottom.jpg)
+I don't know if it still works when you're reading this but you could actually call that contact number for a bit of light humor.
 
 <br/>
 
