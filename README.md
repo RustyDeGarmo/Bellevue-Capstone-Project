@@ -13,7 +13,6 @@ Here is our group video presentation:
 
 Here are a series of images showcasing the final project:
 
-
 <br/>
 
 ## Provisio Hotels Home Page Top:
